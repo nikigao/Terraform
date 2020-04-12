@@ -16,4 +16,4 @@ variable "AMIS" {
     eu-west-1 = "ami-00890f614e48ce866"
   }
 }
-variable "test123" {}
+
