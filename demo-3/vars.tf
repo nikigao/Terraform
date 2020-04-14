@@ -5,11 +5,7 @@ variable "AWS_SECRET_KEY" {
 }
 
 variable "AWS_REGION" {
-<<<<<<< HEAD
-  default = "us-west-1"
-=======
   default = "us-east-1"
->>>>>>> 6e7a0731fe9e5aba5ad392a9b99719ce4a3bff13
 }
 
 variable "AMIS" {
